@@ -4,7 +4,7 @@ This project focuses on improving the implementation of the paper “single view
 
 ## TASKS
 
-Basically, this project includes the following 4 subtasks:
+Basically, this project includes the following 5 subtasks:
 ### Image acquisition
 Here, we took an image of a box with 3-point perspective. The image is shown below:
 
